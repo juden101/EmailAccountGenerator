@@ -14,8 +14,8 @@ Detailed Design
 
 2.1	Create a variable to hold users name <br />
 2.2	Create function  to get the users name <br />
-2.3	Create a method to select options1 or option 2 <br />
-2.4	Menu method 
+2.3	Create a method to select option 1 or option 2 <br />
+2.4	Menu method <br />
 2.4.1	Pass in users name <br />
 2.4.2	Create a scanner <br />
 2.4.3	Create a Boolean variable set it to false <br />
